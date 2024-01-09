@@ -154,7 +154,7 @@ export default function Home() {
         </div>
       );
     }*/
-    // If user doesn't have any tokens to claim, show the mint button
+    // If user does not have any tokens to claim, show the mint button
     return (
       <div style={{ display: "flex-col" }}>
         <div>
